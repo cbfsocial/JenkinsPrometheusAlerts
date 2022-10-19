@@ -1,2 +1,2 @@
 # JenkinsPrometheusAlerts
-This is alert what we created for Jenkins cause everything i found in web was "meh"
+These are alerts that we created for Jenkins cause everything i found on web was "meh"
